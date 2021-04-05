@@ -9,7 +9,7 @@ Ein Musik Addon für das XB Media Center. Mit diesem Plugin bekommt man Zugriff 
 <b>Latest Changes: 03.02.2021</b> 
 <br>
 <br>
-<p align="center"><a href="https://github.com/WOWZON3/plugin.audio.nsm88/archive/master.zip">plugin.audio.nsm88.zip</a>
+<p align="center"><a href="https://codeload.github.com/WOWZON3/plugin.audio.nsm88/zip/refs/heads/main">plugin.audio.nsm88.zip</a>
 <li>Umlaute wurden Korrigiert sowie zahlreiche neue Alben hinzugefügt. Die toten Google Drive Links wurden ersetzt und die Entsprechenden Alben sind somit wieder verfügbar.</li>
 <br>
 <li>Blue Eyed Devils: Holocaust 2000</li>
