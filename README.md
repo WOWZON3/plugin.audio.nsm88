@@ -1,15 +1,15 @@
-<p align="center"><img src="https://raw.githubusercontent.com/RAConquista/plugin.audio.nsm88/master/docs/images/NSM_Logo_500px.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/WOWZON3/plugin.audio.nsm88/master/docs/images/NSM_Logo_500px.png"></p>
 <br>
 <br>
 Ein Musik Addon für das XB Media Center. Mit diesem Plugin bekommt man Zugriff auf eine riesige RAC Musik Bibliothek welche aktuelle Musik Alben sowie Raritäten aus den verschiedensten Bereichen umfasst. Alle Titel sind in 320 kBits verfügbar.
 <br>
 <br>
 <br>
-<p align="center"><img src="https://raw.githubusercontent.com/RAConquista/plugin.audio.nsm88/master/docs/images/Blutlinie.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/WOWZON3/plugin.audio.nsm88/master/docs/images/Blutlinie.png"></p>
 <b>Latest Changes: 03.02.2021</b> 
 <br>
 <br>
-<p align="center"><a href="https://github.com/RAConquista/plugin.audio.nsm88/archive/master.zip">plugin.audio.nsm88.zip</a>
+<p align="center"><a href="https://github.com/WOWZON3/plugin.audio.nsm88/archive/master.zip">plugin.audio.nsm88.zip</a>
 <li>Umlaute wurden Korrigiert sowie zahlreiche neue Alben hinzugefügt. Die toten Google Drive Links wurden ersetzt und die Entsprechenden Alben sind somit wieder verfügbar.</li>
 <br>
 <li>Blue Eyed Devils: Holocaust 2000</li>
